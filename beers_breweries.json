@@ -1,0 +1,13 @@
+[
+    {"id":1,"breweryName":"Hailuodon Panimo", "breweryAddress": "Hailuoto, Finland", "beers":[
+        {"id":1,"beerName":"Hailuotolainen Spezial","beerType": "5.3% Premium Lager", "beerRating": 3.46},
+        {"id":2,"beerName":"Hailuotolainen Altbier","beerType": "4.3% Altbier", "beerRating": 3.28}
+    ]},
+    {"id":2,"breweryName":"Maku Brewing", "breweryAddress": "Tuusula, Finland", "beers":[
+        {"id":3,"beerName":"Maku IPA","beerType": "7.3% India Pale Ale", "beerRating": 3.72}
+        
+    ]},
+    {"id":3,"breweryName":"Lapin Panimo", "breweryAddress": "Rovaniemi, Finland", "beers":[
+        {"id":4,"beerName":"Loimu","beerType": "5.5% Rauchbier", "beerRating": 2.98}
+    ]}
+]
